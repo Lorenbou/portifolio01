@@ -1,2 +1,2 @@
 # portifolio01
- Portifólio de páginas criadas em HTML e CSS com responsividade
+ Portfólio de páginas criadas em HTML e CSS com responsividade
